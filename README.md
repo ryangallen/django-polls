@@ -1,8 +1,7 @@
-# Django Base
+# Django Polls
 
-A docker-compose setup for serving static files and a
-[Django](https://www.djangoproject.com/) application with
-[NGINX](https://www.nginx.com/).
+The [Django Polls Tutorial](https://docs.djangoproject.com/en/1.11/intro/tutorial01/)
+running with docker-compose, PostgreSQL, and [NGINX](https://www.nginx.com/).
 
 ## Development Environment
 
